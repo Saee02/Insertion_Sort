@@ -15,4 +15,7 @@ Step 5 - Insert the value.
 
 Step 6 - Repeat until the array is sorted.
 
+![image](https://user-images.githubusercontent.com/124857336/234470199-33d17c82-5cf4-426d-b039-fa3166cd9855.png)
+
+
 ![insertion](https://user-images.githubusercontent.com/124857336/234468703-c5a7b6bd-c251-4771-87c3-5d2b27f3c887.JPG)
